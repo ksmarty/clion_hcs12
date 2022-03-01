@@ -12,10 +12,6 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc14e786-df3f-44b6-8e72-6cd4612d604c" name="Changes" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,28 +105,6 @@
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="dc14e786-df3f-44b6-8e72-6cd4612d604c" name="Changes" comment="" />
-      <created>1646159731774</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1646159731774</updated>
-      <workItem from="1646159732911" duration="4604000" />
-      <workItem from="1646164489521" duration="662000" />
-      <workItem from="1646165201564" duration="59000" />
-      <workItem from="1646165293639" duration="2249000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial">
-      <created>1646167056753</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1646167056753</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
@@ -147,10 +121,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
